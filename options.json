@@ -1,0 +1,10 @@
+{
+"protocol": "http",
+"host": "10.100.201.27",
+"port": 5000,
+"Luna-Account-Id": "6d071cca-fda5-4a03-84d5-5bea65904480",
+"Content-Type": "application/json",
+"list_id": "ddeea12a-5fa9-47e4-a406-8f6e869e84fa",
+"targets": "face_id",
+"page_size": 100
+}
